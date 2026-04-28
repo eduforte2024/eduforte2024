@@ -1,44 +1,92 @@
-Olá! ================================================================= ================================================================= Desenvolvedora Web ------------------ 💻 Desenvolvedora no início da jornada, com conhecimentos básicos em HTML, CSS, JavaScript e Python. Tenho interesse em aprender cada vez mais sobre desenvolvimento web e programação, buscando aprimorar minhas habilidades através de projetos práticos e estudos constantes. 🚀 Atualmente focado em melhorar minha lógica de programação e criar aplicações simples, organizadas e funcionais. Estamos sempre abertos a novos desafios e oportunidades para crescer na área de tecnologia. * 🌍 Moro no Brasil * ✉️ Você pode entrar em contato comigo em [eduardaforte2024@gmail.com](mailto:eduardaforte2024@gmail.com) * 🧠 Atualmente estou aprendendo JavaScript * 👥 Procuro colaborar em Projetos interessantes
+<h1 align="center">✨ Eduarda Forte ✨</h1>
+<h3 align="center">💻 Desenvolvedora Web em evolução</h3>
+
+---
+
+## 👩‍💻 Sobre mim
+
+💡 Sou uma desenvolvedora em início de jornada, apaixonada por tecnologia e criação de soluções. Conhecimentos básicos em HTML, CSS, JavaScript e Python. Tenho interesse em aprender cada vez mais sobre desenvolvimento web e programação, buscando aprimorar minhas habilidades através de projetos práticos e estudos constantes.
+
+🚀 Atualmente estou focada em:
+- Aprimorar minha lógica de programação
+- Criar projetos práticos e funcionais
+- Evoluir constantemente minhas habilidades
+
+📚 Tecnologias que estou estudando e utilizando:
+- HTML, CSS, JavaScript e Python
+
+🌍 Localização: Brasil  
+📩 Contato: **eduardaforte2024@gmail.com**  
+🤝 Aberta a colaborações em projetos interessantes  
+
+---
+
+## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
 
-### 🚀 Tecnologias & Ferramentas
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" height="45" />
+</a>
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/>
-  </a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40"/>
-  </a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="45" height="45" />
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" />
+</a>
+
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="45" height="45" />
+</a>
 
 </div>
+
+---
+
+## 🌐 Redes Sociais
+
+<p align="center">
+
+<a href="https://github.com/eduforte2024" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://x.com/edudaforte" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/Eduarda Forte" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
-### Redes Sociais
+---
 
-<p align="left"> <a href="https://www.github.com/eduforte2024" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" <a href="https://www.x.com/edudaforte" target="_blank" rel="noreferrer"> <picture> <source media="( prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/Eduarda Forte" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> </p>
-<a href="https://www.github.com/eduforte2024" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/eduforte2024?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/edudaforte" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/edudaforte?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Insígnias
+## 📊 Estatísticas do GitHub
 
-<b>Minhas estatísticas do GitHub</b>
+<div align="center">
 
-<a href="http://www.github.com/eduforte2024"><img src="https://github-readme-stats.vercel.app/api?username=eduforte2024&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de eduforte2024" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=eduforte2024&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-<a href="http://www.github.com/eduforte2024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduforte2024&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduforte2024&theme=tokyonight&hide_border=true" height="160"/>
 
-<a href="https://github.com/eduforte2024" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduforte2024&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduforte2024&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## ✨ Objetivo
+
+🎯 Me tornar uma desenvolvedora cada vez mais completa, criando aplicações úteis, bem estruturadas e com código limpo.
+
+---
+
+⭐ *“Sempre aprendendo, sempre evoluindo.”*
